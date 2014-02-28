@@ -4,7 +4,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "C3101"
+        "name": "C3101",
+        "marker-color": "#FF0000"
       },
       "geometry": {
         "type": "Point",
