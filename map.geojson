@@ -1,0 +1,15 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "C3101"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 12.08401, 55.62478 ] 
+      }
+    }
+  ]
+}
